@@ -16,3 +16,8 @@ print(student_data_frame)
 for (index, row) in student_data_frame.iterrows():
     if row.student == "Holly":
         print(row.score)
+
+#TODO create a dictionary in this format: {"A": "Alfa, "B": "Bravo"}
+
+
+#TODO create a list of the phonetic code words from a word that the user inputs
